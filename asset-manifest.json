@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skycity/static/css/main.2853f8cc.chunk.css",
+    "main.js": "/skycity/static/js/main.5ef5a4b0.chunk.js",
+    "main.js.map": "/skycity/static/js/main.5ef5a4b0.chunk.js.map",
+    "runtime-main.js": "/skycity/static/js/runtime-main.3aefac63.js",
+    "runtime-main.js.map": "/skycity/static/js/runtime-main.3aefac63.js.map",
+    "static/js/2.22b44cac.chunk.js": "/skycity/static/js/2.22b44cac.chunk.js",
+    "static/js/2.22b44cac.chunk.js.map": "/skycity/static/js/2.22b44cac.chunk.js.map",
+    "index.html": "/skycity/index.html",
+    "static/css/main.2853f8cc.chunk.css.map": "/skycity/static/css/main.2853f8cc.chunk.css.map",
+    "static/js/2.22b44cac.chunk.js.LICENSE.txt": "/skycity/static/js/2.22b44cac.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/skycity/static/media/error.42292aa1.gif",
+    "static/media/hologram-map.6ef80d04.svg": "/skycity/static/media/hologram-map.6ef80d04.svg",
+    "static/media/hologram-shine.7d5577c9.svg": "/skycity/static/media/hologram-shine.7d5577c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aefac63.js",
+    "static/js/2.22b44cac.chunk.js",
+    "static/css/main.2853f8cc.chunk.css",
+    "static/js/main.5ef5a4b0.chunk.js"
+  ]
+}
