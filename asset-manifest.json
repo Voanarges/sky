@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sky/static/css/main.d2b4908c.chunk.css",
+    "main.css": "/sky/static/css/main.5a52ed1b.chunk.css",
     "main.js": "/sky/static/js/main.c6153bab.chunk.js",
     "main.js.map": "/sky/static/js/main.c6153bab.chunk.js.map",
     "runtime-main.js": "/sky/static/js/runtime-main.2298394d.js",
@@ -8,7 +8,7 @@
     "static/js/2.67798504.chunk.js": "/sky/static/js/2.67798504.chunk.js",
     "static/js/2.67798504.chunk.js.map": "/sky/static/js/2.67798504.chunk.js.map",
     "index.html": "/sky/index.html",
-    "static/css/main.d2b4908c.chunk.css.map": "/sky/static/css/main.d2b4908c.chunk.css.map",
+    "static/css/main.5a52ed1b.chunk.css.map": "/sky/static/css/main.5a52ed1b.chunk.css.map",
     "static/js/2.67798504.chunk.js.LICENSE.txt": "/sky/static/js/2.67798504.chunk.js.LICENSE.txt",
     "static/media/error.42292aa1.gif": "/sky/static/media/error.42292aa1.gif",
     "static/media/hologram-map.6ef80d04.svg": "/sky/static/media/hologram-map.6ef80d04.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.2298394d.js",
     "static/js/2.67798504.chunk.js",
-    "static/css/main.d2b4908c.chunk.css",
+    "static/css/main.5a52ed1b.chunk.css",
     "static/js/main.c6153bab.chunk.js"
   ]
 }
